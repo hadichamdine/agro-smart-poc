@@ -1,0 +1,205 @@
+row,col,mean_ndvi,bare_fraction,level,advice
+2,10,0.337,0.025,ok,Moderate crop vigour
+2,11,0.262,0.054,ok,Moderate crop vigour
+2,12,0.248,0.059,ok,Moderate crop vigour
+2,13,0.44,0.019,healthy,"Dense, healthy vegetation"
+2,14,0.349,0.035,ok,Moderate crop vigour
+2,15,0.337,0.02,ok,Moderate crop vigour
+3,8,0.254,0.054,ok,Moderate crop vigour
+3,9,0.28,0.069,ok,Moderate crop vigour
+3,10,0.31,0.019,ok,Moderate crop vigour
+3,11,0.303,0.03,ok,Moderate crop vigour
+3,12,0.278,0.018,ok,Moderate crop vigour
+3,13,0.293,0.028,ok,Moderate crop vigour
+3,14,0.288,0.056,ok,Moderate crop vigour
+3,15,0.288,0.035,ok,Moderate crop vigour
+4,0,0.189,0.226,watch,Below-average vegetation - monitor water stress
+4,3,0.214,0.215,watch,Below-average vegetation - monitor water stress
+4,4,0.219,0.117,watch,Below-average vegetation - monitor water stress
+4,5,0.229,0.082,ok,Moderate crop vigour
+4,6,0.238,0.1,ok,Moderate crop vigour
+4,7,0.304,0.096,ok,Moderate crop vigour
+4,8,0.226,0.131,ok,Moderate crop vigour
+4,9,0.275,0.066,ok,Moderate crop vigour
+4,10,0.232,0.067,ok,Moderate crop vigour
+4,11,0.287,0.045,ok,Moderate crop vigour
+4,12,0.344,0.041,ok,Moderate crop vigour
+4,13,0.325,0.057,ok,Moderate crop vigour
+4,14,0.338,0.025,ok,Moderate crop vigour
+4,15,0.218,0.101,watch,Below-average vegetation - monitor water stress
+5,0,0.203,0.178,watch,Below-average vegetation - monitor water stress
+5,1,0.165,0.274,watch,Below-average vegetation - monitor water stress
+5,2,0.152,0.374,watch,Below-average vegetation - monitor water stress
+5,3,0.213,0.253,watch,Below-average vegetation - monitor water stress
+5,4,0.182,0.315,watch,Below-average vegetation - monitor water stress
+5,5,0.236,0.2,ok,Moderate crop vigour
+5,6,0.329,0.04,ok,Moderate crop vigour
+5,7,0.338,0.048,ok,Moderate crop vigour
+5,8,0.295,0.048,ok,Moderate crop vigour
+5,9,0.273,0.043,ok,Moderate crop vigour
+5,10,0.329,0.02,ok,Moderate crop vigour
+5,11,0.421,0.019,healthy,"Dense, healthy vegetation"
+5,12,0.247,0.131,ok,Moderate crop vigour
+5,13,0.237,0.145,ok,Moderate crop vigour
+5,14,0.256,0.104,ok,Moderate crop vigour
+5,15,0.237,0.08,ok,Moderate crop vigour
+6,0,0.223,0.148,ok,Moderate crop vigour
+6,1,0.218,0.203,watch,Below-average vegetation - monitor water stress
+6,2,0.253,0.182,ok,Moderate crop vigour
+6,3,0.207,0.252,watch,Below-average vegetation - monitor water stress
+6,4,0.178,0.284,watch,Below-average vegetation - monitor water stress
+6,5,0.296,0.102,ok,Moderate crop vigour
+6,6,0.36,0.032,healthy,"Dense, healthy vegetation"
+6,7,0.41,0.012,healthy,"Dense, healthy vegetation"
+6,8,0.27,0.06,ok,Moderate crop vigour
+6,9,0.285,0.029,ok,Moderate crop vigour
+6,10,0.379,0.003,healthy,"Dense, healthy vegetation"
+6,11,0.392,0.009,healthy,"Dense, healthy vegetation"
+6,12,0.362,0.007,healthy,"Dense, healthy vegetation"
+6,13,0.383,0.012,healthy,"Dense, healthy vegetation"
+6,14,0.375,0.011,healthy,"Dense, healthy vegetation"
+6,15,0.367,0.004,healthy,"Dense, healthy vegetation"
+7,0,0.267,0.062,ok,Moderate crop vigour
+7,1,0.246,0.127,ok,Moderate crop vigour
+7,2,0.249,0.124,ok,Moderate crop vigour
+7,3,0.32,0.04,ok,Moderate crop vigour
+7,4,0.371,0.015,healthy,"Dense, healthy vegetation"
+7,5,0.327,0.077,ok,Moderate crop vigour
+7,6,0.342,0.025,ok,Moderate crop vigour
+7,7,0.346,0.035,ok,Moderate crop vigour
+7,8,0.321,0.055,ok,Moderate crop vigour
+7,9,0.292,0.073,ok,Moderate crop vigour
+7,10,0.293,0.047,ok,Moderate crop vigour
+7,11,0.343,0.05,ok,Moderate crop vigour
+7,12,0.371,0.006,healthy,"Dense, healthy vegetation"
+7,13,0.362,0.002,healthy,"Dense, healthy vegetation"
+7,14,0.386,0.013,healthy,"Dense, healthy vegetation"
+7,15,0.403,0.002,healthy,"Dense, healthy vegetation"
+8,0,0.236,0.145,ok,Moderate crop vigour
+8,1,0.307,0.077,ok,Moderate crop vigour
+8,2,0.372,0.007,healthy,"Dense, healthy vegetation"
+8,3,0.377,0.007,healthy,"Dense, healthy vegetation"
+8,4,0.377,0.002,healthy,"Dense, healthy vegetation"
+8,5,0.348,0.005,ok,Moderate crop vigour
+8,6,0.358,0.006,healthy,"Dense, healthy vegetation"
+8,7,0.289,0.039,ok,Moderate crop vigour
+8,8,0.261,0.096,ok,Moderate crop vigour
+8,9,0.265,0.056,ok,Moderate crop vigour
+8,10,0.263,0.061,ok,Moderate crop vigour
+8,11,0.214,0.148,watch,Below-average vegetation - monitor water stress
+8,12,0.251,0.076,ok,Moderate crop vigour
+8,13,0.277,0.03,ok,Moderate crop vigour
+8,14,0.28,0.035,ok,Moderate crop vigour
+8,15,0.351,0.015,healthy,"Dense, healthy vegetation"
+9,0,0.372,0.04,healthy,"Dense, healthy vegetation"
+9,1,0.416,0.001,healthy,"Dense, healthy vegetation"
+9,2,0.394,0.0,healthy,"Dense, healthy vegetation"
+9,3,0.383,0.002,healthy,"Dense, healthy vegetation"
+9,4,0.272,0.043,ok,Moderate crop vigour
+9,5,0.283,0.018,ok,Moderate crop vigour
+9,6,0.299,0.029,ok,Moderate crop vigour
+9,7,0.288,0.02,ok,Moderate crop vigour
+9,8,0.334,0.01,ok,Moderate crop vigour
+9,9,0.278,0.035,ok,Moderate crop vigour
+9,10,0.226,0.053,ok,Moderate crop vigour
+9,11,0.284,0.01,ok,Moderate crop vigour
+9,12,0.246,0.095,ok,Moderate crop vigour
+9,13,0.285,0.036,ok,Moderate crop vigour
+9,14,0.296,0.069,ok,Moderate crop vigour
+9,15,0.272,0.062,ok,Moderate crop vigour
+10,0,0.388,0.0,healthy,"Dense, healthy vegetation"
+10,1,0.391,0.0,healthy,"Dense, healthy vegetation"
+10,2,0.346,0.009,ok,Moderate crop vigour
+10,3,0.281,0.017,ok,Moderate crop vigour
+10,4,0.229,0.052,ok,Moderate crop vigour
+10,5,0.239,0.055,ok,Moderate crop vigour
+10,6,0.218,0.071,watch,Below-average vegetation - monitor water stress
+10,7,0.253,0.055,ok,Moderate crop vigour
+10,8,0.235,0.085,ok,Moderate crop vigour
+10,9,0.243,0.092,ok,Moderate crop vigour
+10,10,0.187,0.12,watch,Below-average vegetation - monitor water stress
+10,11,0.211,0.227,watch,Below-average vegetation - monitor water stress
+10,12,0.22,0.138,watch,Below-average vegetation - monitor water stress
+10,13,0.337,0.021,ok,Moderate crop vigour
+10,14,0.356,0.006,healthy,"Dense, healthy vegetation"
+10,15,0.344,0.004,ok,Moderate crop vigour
+11,0,0.299,0.016,ok,Moderate crop vigour
+11,1,0.34,0.004,ok,Moderate crop vigour
+11,2,0.318,0.004,ok,Moderate crop vigour
+11,3,0.252,0.032,ok,Moderate crop vigour
+11,4,0.244,0.089,ok,Moderate crop vigour
+11,5,0.198,0.097,watch,Below-average vegetation - monitor water stress
+11,6,0.142,0.254,watch,Below-average vegetation - monitor water stress
+11,7,0.134,0.298,watch,Below-average vegetation - monitor water stress
+11,8,0.114,0.412,critical,Very low vegetation - check irrigation / soil
+11,9,0.123,0.392,watch,Below-average vegetation - monitor water stress
+11,10,0.125,0.284,watch,Below-average vegetation - monitor water stress
+11,11,0.13,0.294,watch,Below-average vegetation - monitor water stress
+11,12,0.163,0.202,watch,Below-average vegetation - monitor water stress
+11,13,0.176,0.16,watch,Below-average vegetation - monitor water stress
+11,14,0.18,0.11,watch,Below-average vegetation - monitor water stress
+11,15,0.183,0.13,watch,Below-average vegetation - monitor water stress
+12,0,0.194,0.086,watch,Below-average vegetation - monitor water stress
+12,1,0.168,0.193,watch,Below-average vegetation - monitor water stress
+12,2,0.207,0.102,watch,Below-average vegetation - monitor water stress
+12,3,0.176,0.198,watch,Below-average vegetation - monitor water stress
+12,4,0.185,0.183,watch,Below-average vegetation - monitor water stress
+12,5,0.159,0.29,watch,Below-average vegetation - monitor water stress
+12,6,0.112,0.439,critical,Very low vegetation - check irrigation / soil
+12,7,0.108,0.463,critical,Very low vegetation - check irrigation / soil
+12,8,0.108,0.459,critical,Very low vegetation - check irrigation / soil
+12,9,0.109,0.486,critical,Very low vegetation - check irrigation / soil
+12,10,0.112,0.471,critical,Very low vegetation - check irrigation / soil
+12,11,0.108,0.449,critical,Very low vegetation - check irrigation / soil
+12,12,0.157,0.182,watch,Below-average vegetation - monitor water stress
+12,13,0.154,0.175,watch,Below-average vegetation - monitor water stress
+12,14,0.208,0.056,watch,Below-average vegetation - monitor water stress
+12,15,0.214,0.038,watch,Below-average vegetation - monitor water stress
+13,0,0.143,0.236,watch,Below-average vegetation - monitor water stress
+13,1,0.127,0.309,watch,Below-average vegetation - monitor water stress
+13,2,0.153,0.257,watch,Below-average vegetation - monitor water stress
+13,3,0.117,0.364,critical,Very low vegetation - check irrigation / soil
+13,4,0.123,0.308,watch,Below-average vegetation - monitor water stress
+13,5,0.119,0.333,critical,Very low vegetation - check irrigation / soil
+13,6,0.174,0.227,watch,Below-average vegetation - monitor water stress
+13,7,0.179,0.198,watch,Below-average vegetation - monitor water stress
+13,8,0.148,0.294,watch,Below-average vegetation - monitor water stress
+13,9,0.131,0.378,watch,Below-average vegetation - monitor water stress
+13,10,0.105,0.498,critical,Very low vegetation - check irrigation / soil
+13,11,0.141,0.319,watch,Below-average vegetation - monitor water stress
+13,12,0.141,0.321,watch,Below-average vegetation - monitor water stress
+13,13,0.196,0.072,watch,Below-average vegetation - monitor water stress
+13,14,0.225,0.031,ok,Moderate crop vigour
+13,15,0.243,0.013,ok,Moderate crop vigour
+14,0,0.193,0.159,watch,Below-average vegetation - monitor water stress
+14,1,0.178,0.207,watch,Below-average vegetation - monitor water stress
+14,2,0.121,0.344,watch,Below-average vegetation - monitor water stress
+14,3,0.121,0.287,watch,Below-average vegetation - monitor water stress
+14,4,0.222,0.182,ok,Moderate crop vigour
+14,5,0.214,0.163,watch,Below-average vegetation - monitor water stress
+14,6,0.237,0.077,ok,Moderate crop vigour
+14,7,0.25,0.067,ok,Moderate crop vigour
+14,8,0.221,0.134,ok,Moderate crop vigour
+14,9,0.119,0.437,critical,Very low vegetation - check irrigation / soil
+14,10,0.19,0.168,watch,Below-average vegetation - monitor water stress
+14,11,0.131,0.338,watch,Below-average vegetation - monitor water stress
+14,12,0.125,0.435,watch,Below-average vegetation - monitor water stress
+14,13,0.232,0.058,ok,Moderate crop vigour
+14,14,0.206,0.088,watch,Below-average vegetation - monitor water stress
+14,15,0.181,0.174,watch,Below-average vegetation - monitor water stress
+15,0,0.104,0.557,critical,Very low vegetation - check irrigation / soil
+15,1,0.201,0.244,watch,Below-average vegetation - monitor water stress
+15,2,0.114,0.572,critical,Very low vegetation - check irrigation / soil
+15,3,0.16,0.381,watch,Below-average vegetation - monitor water stress
+15,4,0.188,0.331,watch,Below-average vegetation - monitor water stress
+15,5,0.184,0.296,watch,Below-average vegetation - monitor water stress
+15,6,0.168,0.285,watch,Below-average vegetation - monitor water stress
+15,7,0.148,0.135,watch,Below-average vegetation - monitor water stress
+15,8,0.155,0.124,watch,Below-average vegetation - monitor water stress
+15,9,0.129,0.376,watch,Below-average vegetation - monitor water stress
+15,10,0.132,0.391,watch,Below-average vegetation - monitor water stress
+15,11,0.134,0.304,watch,Below-average vegetation - monitor water stress
+15,12,0.139,0.303,watch,Below-average vegetation - monitor water stress
+15,13,0.156,0.251,watch,Below-average vegetation - monitor water stress
+15,14,0.131,0.31,watch,Below-average vegetation - monitor water stress
+15,15,0.113,0.449,critical,Very low vegetation - check irrigation / soil

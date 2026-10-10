@@ -1,0 +1,1666 @@
+{
+  "summary": {
+    "mean_ndvi_land": 0.243,
+    "land_pixels": 477959,
+    "image_size": [
+      779,
+      779
+    ]
+  },
+  "classes": {
+    "Water": {
+      "pixels": 128882,
+      "percent": 21.24
+    },
+    "Bare / dry soil": {
+      "pixels": 69177,
+      "percent": 11.4
+    },
+    "Sparse vegetation": {
+      "pixels": 206656,
+      "percent": 34.05
+    },
+    "Moderate vegetation": {
+      "pixels": 126029,
+      "percent": 20.77
+    },
+    "Dense vegetation": {
+      "pixels": 76097,
+      "percent": 12.54
+    }
+  },
+  "zones": [
+    {
+      "row": 2,
+      "col": 10,
+      "mean_ndvi": 0.337,
+      "bare_fraction": 0.025,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "mean_ndvi": 0.262,
+      "bare_fraction": 0.054,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 2,
+      "col": 12,
+      "mean_ndvi": 0.248,
+      "bare_fraction": 0.059,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 2,
+      "col": 13,
+      "mean_ndvi": 0.44,
+      "bare_fraction": 0.019,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "mean_ndvi": 0.349,
+      "bare_fraction": 0.035,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 2,
+      "col": 15,
+      "mean_ndvi": 0.337,
+      "bare_fraction": 0.02,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "mean_ndvi": 0.254,
+      "bare_fraction": 0.054,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 9,
+      "mean_ndvi": 0.28,
+      "bare_fraction": 0.069,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "mean_ndvi": 0.31,
+      "bare_fraction": 0.019,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 11,
+      "mean_ndvi": 0.303,
+      "bare_fraction": 0.03,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 12,
+      "mean_ndvi": 0.278,
+      "bare_fraction": 0.018,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 13,
+      "mean_ndvi": 0.293,
+      "bare_fraction": 0.028,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 14,
+      "mean_ndvi": 0.288,
+      "bare_fraction": 0.056,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 3,
+      "col": 15,
+      "mean_ndvi": 0.288,
+      "bare_fraction": 0.035,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "mean_ndvi": 0.189,
+      "bare_fraction": 0.226,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "mean_ndvi": 0.214,
+      "bare_fraction": 0.215,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "mean_ndvi": 0.219,
+      "bare_fraction": 0.117,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "mean_ndvi": 0.229,
+      "bare_fraction": 0.082,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "mean_ndvi": 0.238,
+      "bare_fraction": 0.1,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "mean_ndvi": 0.304,
+      "bare_fraction": 0.096,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "mean_ndvi": 0.226,
+      "bare_fraction": 0.131,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "mean_ndvi": 0.275,
+      "bare_fraction": 0.066,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "mean_ndvi": 0.232,
+      "bare_fraction": 0.067,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "mean_ndvi": 0.287,
+      "bare_fraction": 0.045,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "mean_ndvi": 0.344,
+      "bare_fraction": 0.041,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 13,
+      "mean_ndvi": 0.325,
+      "bare_fraction": 0.057,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 14,
+      "mean_ndvi": 0.338,
+      "bare_fraction": 0.025,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 4,
+      "col": 15,
+      "mean_ndvi": 0.218,
+      "bare_fraction": 0.101,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 0,
+      "mean_ndvi": 0.203,
+      "bare_fraction": 0.178,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "mean_ndvi": 0.165,
+      "bare_fraction": 0.274,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "mean_ndvi": 0.152,
+      "bare_fraction": 0.374,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "mean_ndvi": 0.213,
+      "bare_fraction": 0.253,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "mean_ndvi": 0.182,
+      "bare_fraction": 0.315,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "mean_ndvi": 0.236,
+      "bare_fraction": 0.2,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "mean_ndvi": 0.329,
+      "bare_fraction": 0.04,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "mean_ndvi": 0.338,
+      "bare_fraction": 0.048,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "mean_ndvi": 0.295,
+      "bare_fraction": 0.048,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "mean_ndvi": 0.273,
+      "bare_fraction": 0.043,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "mean_ndvi": 0.329,
+      "bare_fraction": 0.02,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "mean_ndvi": 0.421,
+      "bare_fraction": 0.019,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "mean_ndvi": 0.247,
+      "bare_fraction": 0.131,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 13,
+      "mean_ndvi": 0.237,
+      "bare_fraction": 0.145,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "mean_ndvi": 0.256,
+      "bare_fraction": 0.104,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 5,
+      "col": 15,
+      "mean_ndvi": 0.237,
+      "bare_fraction": 0.08,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "mean_ndvi": 0.223,
+      "bare_fraction": 0.148,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "mean_ndvi": 0.218,
+      "bare_fraction": 0.203,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "mean_ndvi": 0.253,
+      "bare_fraction": 0.182,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "mean_ndvi": 0.207,
+      "bare_fraction": 0.252,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "mean_ndvi": 0.178,
+      "bare_fraction": 0.284,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "mean_ndvi": 0.296,
+      "bare_fraction": 0.102,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "mean_ndvi": 0.36,
+      "bare_fraction": 0.032,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "mean_ndvi": 0.41,
+      "bare_fraction": 0.012,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "mean_ndvi": 0.27,
+      "bare_fraction": 0.06,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "mean_ndvi": 0.285,
+      "bare_fraction": 0.029,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "mean_ndvi": 0.379,
+      "bare_fraction": 0.003,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "mean_ndvi": 0.392,
+      "bare_fraction": 0.009,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "mean_ndvi": 0.362,
+      "bare_fraction": 0.007,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 13,
+      "mean_ndvi": 0.383,
+      "bare_fraction": 0.012,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 14,
+      "mean_ndvi": 0.375,
+      "bare_fraction": 0.011,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 6,
+      "col": 15,
+      "mean_ndvi": 0.367,
+      "bare_fraction": 0.004,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 7,
+      "col": 0,
+      "mean_ndvi": 0.267,
+      "bare_fraction": 0.062,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "mean_ndvi": 0.246,
+      "bare_fraction": 0.127,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 2,
+      "mean_ndvi": 0.249,
+      "bare_fraction": 0.124,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "mean_ndvi": 0.32,
+      "bare_fraction": 0.04,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "mean_ndvi": 0.371,
+      "bare_fraction": 0.015,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "mean_ndvi": 0.327,
+      "bare_fraction": 0.077,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "mean_ndvi": 0.342,
+      "bare_fraction": 0.025,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "mean_ndvi": 0.346,
+      "bare_fraction": 0.035,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "mean_ndvi": 0.321,
+      "bare_fraction": 0.055,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "mean_ndvi": 0.292,
+      "bare_fraction": 0.073,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "mean_ndvi": 0.293,
+      "bare_fraction": 0.047,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "mean_ndvi": 0.343,
+      "bare_fraction": 0.05,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "mean_ndvi": 0.371,
+      "bare_fraction": 0.006,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 7,
+      "col": 13,
+      "mean_ndvi": 0.362,
+      "bare_fraction": 0.002,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 7,
+      "col": 14,
+      "mean_ndvi": 0.386,
+      "bare_fraction": 0.013,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 7,
+      "col": 15,
+      "mean_ndvi": 0.403,
+      "bare_fraction": 0.002,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 8,
+      "col": 0,
+      "mean_ndvi": 0.236,
+      "bare_fraction": 0.145,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "mean_ndvi": 0.307,
+      "bare_fraction": 0.077,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "mean_ndvi": 0.372,
+      "bare_fraction": 0.007,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "mean_ndvi": 0.377,
+      "bare_fraction": 0.007,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "mean_ndvi": 0.377,
+      "bare_fraction": 0.002,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "mean_ndvi": 0.348,
+      "bare_fraction": 0.005,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "mean_ndvi": 0.358,
+      "bare_fraction": 0.006,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "mean_ndvi": 0.289,
+      "bare_fraction": 0.039,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "mean_ndvi": 0.261,
+      "bare_fraction": 0.096,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "mean_ndvi": 0.265,
+      "bare_fraction": 0.056,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "mean_ndvi": 0.263,
+      "bare_fraction": 0.061,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "mean_ndvi": 0.214,
+      "bare_fraction": 0.148,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "mean_ndvi": 0.251,
+      "bare_fraction": 0.076,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 13,
+      "mean_ndvi": 0.277,
+      "bare_fraction": 0.03,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 14,
+      "mean_ndvi": 0.28,
+      "bare_fraction": 0.035,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 8,
+      "col": 15,
+      "mean_ndvi": 0.351,
+      "bare_fraction": 0.015,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 9,
+      "col": 0,
+      "mean_ndvi": 0.372,
+      "bare_fraction": 0.04,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "mean_ndvi": 0.416,
+      "bare_fraction": 0.001,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "mean_ndvi": 0.394,
+      "bare_fraction": 0.0,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "mean_ndvi": 0.383,
+      "bare_fraction": 0.002,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "mean_ndvi": 0.272,
+      "bare_fraction": 0.043,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "mean_ndvi": 0.283,
+      "bare_fraction": 0.018,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "mean_ndvi": 0.299,
+      "bare_fraction": 0.029,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "mean_ndvi": 0.288,
+      "bare_fraction": 0.02,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "mean_ndvi": 0.334,
+      "bare_fraction": 0.01,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "mean_ndvi": 0.278,
+      "bare_fraction": 0.035,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "mean_ndvi": 0.226,
+      "bare_fraction": 0.053,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "mean_ndvi": 0.284,
+      "bare_fraction": 0.01,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "mean_ndvi": 0.246,
+      "bare_fraction": 0.095,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 13,
+      "mean_ndvi": 0.285,
+      "bare_fraction": 0.036,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 14,
+      "mean_ndvi": 0.296,
+      "bare_fraction": 0.069,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 9,
+      "col": 15,
+      "mean_ndvi": 0.272,
+      "bare_fraction": 0.062,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 0,
+      "mean_ndvi": 0.388,
+      "bare_fraction": 0.0,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "mean_ndvi": 0.391,
+      "bare_fraction": 0.0,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "mean_ndvi": 0.346,
+      "bare_fraction": 0.009,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "mean_ndvi": 0.281,
+      "bare_fraction": 0.017,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "mean_ndvi": 0.229,
+      "bare_fraction": 0.052,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "mean_ndvi": 0.239,
+      "bare_fraction": 0.055,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "mean_ndvi": 0.218,
+      "bare_fraction": 0.071,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "mean_ndvi": 0.253,
+      "bare_fraction": 0.055,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "mean_ndvi": 0.235,
+      "bare_fraction": 0.085,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "mean_ndvi": 0.243,
+      "bare_fraction": 0.092,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "mean_ndvi": 0.187,
+      "bare_fraction": 0.12,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "mean_ndvi": 0.211,
+      "bare_fraction": 0.227,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "mean_ndvi": 0.22,
+      "bare_fraction": 0.138,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "mean_ndvi": 0.337,
+      "bare_fraction": 0.021,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 10,
+      "col": 14,
+      "mean_ndvi": 0.356,
+      "bare_fraction": 0.006,
+      "level": "healthy",
+      "advice": "Dense, healthy vegetation"
+    },
+    {
+      "row": 10,
+      "col": 15,
+      "mean_ndvi": 0.344,
+      "bare_fraction": 0.004,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 0,
+      "mean_ndvi": 0.299,
+      "bare_fraction": 0.016,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 1,
+      "mean_ndvi": 0.34,
+      "bare_fraction": 0.004,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "mean_ndvi": 0.318,
+      "bare_fraction": 0.004,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "mean_ndvi": 0.252,
+      "bare_fraction": 0.032,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "mean_ndvi": 0.244,
+      "bare_fraction": 0.089,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "mean_ndvi": 0.198,
+      "bare_fraction": 0.097,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "mean_ndvi": 0.142,
+      "bare_fraction": 0.254,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "mean_ndvi": 0.134,
+      "bare_fraction": 0.298,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "mean_ndvi": 0.114,
+      "bare_fraction": 0.412,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "mean_ndvi": 0.123,
+      "bare_fraction": 0.392,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "mean_ndvi": 0.125,
+      "bare_fraction": 0.284,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "mean_ndvi": 0.13,
+      "bare_fraction": 0.294,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "mean_ndvi": 0.163,
+      "bare_fraction": 0.202,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "mean_ndvi": 0.176,
+      "bare_fraction": 0.16,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 14,
+      "mean_ndvi": 0.18,
+      "bare_fraction": 0.11,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 11,
+      "col": 15,
+      "mean_ndvi": 0.183,
+      "bare_fraction": 0.13,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 0,
+      "mean_ndvi": 0.194,
+      "bare_fraction": 0.086,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 1,
+      "mean_ndvi": 0.168,
+      "bare_fraction": 0.193,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "mean_ndvi": 0.207,
+      "bare_fraction": 0.102,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "mean_ndvi": 0.176,
+      "bare_fraction": 0.198,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "mean_ndvi": 0.185,
+      "bare_fraction": 0.183,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "mean_ndvi": 0.159,
+      "bare_fraction": 0.29,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "mean_ndvi": 0.112,
+      "bare_fraction": 0.439,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "mean_ndvi": 0.108,
+      "bare_fraction": 0.463,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "mean_ndvi": 0.108,
+      "bare_fraction": 0.459,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "mean_ndvi": 0.109,
+      "bare_fraction": 0.486,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "mean_ndvi": 0.112,
+      "bare_fraction": 0.471,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "mean_ndvi": 0.108,
+      "bare_fraction": 0.449,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 12,
+      "col": 12,
+      "mean_ndvi": 0.157,
+      "bare_fraction": 0.182,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "mean_ndvi": 0.154,
+      "bare_fraction": 0.175,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 14,
+      "mean_ndvi": 0.208,
+      "bare_fraction": 0.056,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 12,
+      "col": 15,
+      "mean_ndvi": 0.214,
+      "bare_fraction": 0.038,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 0,
+      "mean_ndvi": 0.143,
+      "bare_fraction": 0.236,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "mean_ndvi": 0.127,
+      "bare_fraction": 0.309,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 2,
+      "mean_ndvi": 0.153,
+      "bare_fraction": 0.257,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "mean_ndvi": 0.117,
+      "bare_fraction": 0.364,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "mean_ndvi": 0.123,
+      "bare_fraction": 0.308,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "mean_ndvi": 0.119,
+      "bare_fraction": 0.333,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 13,
+      "col": 6,
+      "mean_ndvi": 0.174,
+      "bare_fraction": 0.227,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "mean_ndvi": 0.179,
+      "bare_fraction": 0.198,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "mean_ndvi": 0.148,
+      "bare_fraction": 0.294,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "mean_ndvi": 0.131,
+      "bare_fraction": 0.378,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "mean_ndvi": 0.105,
+      "bare_fraction": 0.498,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "mean_ndvi": 0.141,
+      "bare_fraction": 0.319,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "mean_ndvi": 0.141,
+      "bare_fraction": 0.321,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "mean_ndvi": 0.196,
+      "bare_fraction": 0.072,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 13,
+      "col": 14,
+      "mean_ndvi": 0.225,
+      "bare_fraction": 0.031,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 13,
+      "col": 15,
+      "mean_ndvi": 0.243,
+      "bare_fraction": 0.013,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 0,
+      "mean_ndvi": 0.193,
+      "bare_fraction": 0.159,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 1,
+      "mean_ndvi": 0.178,
+      "bare_fraction": 0.207,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "mean_ndvi": 0.121,
+      "bare_fraction": 0.344,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "mean_ndvi": 0.121,
+      "bare_fraction": 0.287,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 4,
+      "mean_ndvi": 0.222,
+      "bare_fraction": 0.182,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "mean_ndvi": 0.214,
+      "bare_fraction": 0.163,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "mean_ndvi": 0.237,
+      "bare_fraction": 0.077,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "mean_ndvi": 0.25,
+      "bare_fraction": 0.067,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "mean_ndvi": 0.221,
+      "bare_fraction": 0.134,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "mean_ndvi": 0.119,
+      "bare_fraction": 0.437,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "mean_ndvi": 0.19,
+      "bare_fraction": 0.168,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "mean_ndvi": 0.131,
+      "bare_fraction": 0.338,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "mean_ndvi": 0.125,
+      "bare_fraction": 0.435,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "mean_ndvi": 0.232,
+      "bare_fraction": 0.058,
+      "level": "ok",
+      "advice": "Moderate crop vigour"
+    },
+    {
+      "row": 14,
+      "col": 14,
+      "mean_ndvi": 0.206,
+      "bare_fraction": 0.088,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 14,
+      "col": 15,
+      "mean_ndvi": 0.181,
+      "bare_fraction": 0.174,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 0,
+      "mean_ndvi": 0.104,
+      "bare_fraction": 0.557,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 15,
+      "col": 1,
+      "mean_ndvi": 0.201,
+      "bare_fraction": 0.244,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "mean_ndvi": 0.114,
+      "bare_fraction": 0.572,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "mean_ndvi": 0.16,
+      "bare_fraction": 0.381,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 4,
+      "mean_ndvi": 0.188,
+      "bare_fraction": 0.331,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "mean_ndvi": 0.184,
+      "bare_fraction": 0.296,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "mean_ndvi": 0.168,
+      "bare_fraction": 0.285,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "mean_ndvi": 0.148,
+      "bare_fraction": 0.135,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "mean_ndvi": 0.155,
+      "bare_fraction": 0.124,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "mean_ndvi": 0.129,
+      "bare_fraction": 0.376,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "mean_ndvi": 0.132,
+      "bare_fraction": 0.391,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 11,
+      "mean_ndvi": 0.134,
+      "bare_fraction": 0.304,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "mean_ndvi": 0.139,
+      "bare_fraction": 0.303,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 13,
+      "mean_ndvi": 0.156,
+      "bare_fraction": 0.251,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 14,
+      "mean_ndvi": 0.131,
+      "bare_fraction": 0.31,
+      "level": "watch",
+      "advice": "Below-average vegetation - monitor water stress"
+    },
+    {
+      "row": 15,
+      "col": 15,
+      "mean_ndvi": 0.113,
+      "bare_fraction": 0.449,
+      "level": "critical",
+      "advice": "Very low vegetation - check irrigation / soil"
+    }
+  ]
+}
